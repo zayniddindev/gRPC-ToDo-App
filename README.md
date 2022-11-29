@@ -1,4 +1,4 @@
-# ToDo App with Node.js and gRPC ⚡
+# ToDo App with Node.js and gRPC ⚡⚡⚡
 
 ### Install deps ⬇️:
 ```bash
